@@ -1,0 +1,3 @@
+target 'eb-test' do
+pod 'EBForeNotification'
+end

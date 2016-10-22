@@ -1,0 +1,12 @@
+PODS:
+  - EBForeNotification (1.0.5)
+
+DEPENDENCIES:
+  - EBForeNotification
+
+SPEC CHECKSUMS:
+  EBForeNotification: 8dc317ca2649bf93553ee9a50e103e7189aae701
+
+PODFILE CHECKSUM: 0846af4d76482c005ded23fdd1b4ffff33d500cd
+
+COCOAPODS: 1.0.1
